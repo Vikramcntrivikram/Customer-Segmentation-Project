@@ -35,16 +35,20 @@ Transactional e-commerce data with columns: `InvoiceNo, CustomerID, InvoiceDate,
 
 ## Dashboard
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](<img width="1158" height="559" alt="dashboard-overview" src="https://github.com/user-attachments/assets/5991ed1f-0494-47eb-bbf2-65b0a3b287e1" />
+)
 
 **Segment Scatter Plot** — Recency vs. Monetary, colored by persona:
-![Scatter Plot](screenshots/scatter-plot.png)
+![Scatter Plot](<img width="547" height="284" alt="scatter-plot" src="https://github.com/user-attachments/assets/fbeda7b7-20cd-465d-91ea-1afd7f534376" />
+)
 
 **Segment Heatmap** — average RFM values per persona:
-![Heatmap](screenshots/heatmap.png)
+![Heatmap](<img width="544" height="146" alt="heatmap" src="https://github.com/user-attachments/assets/0b06d930-1770-4aab-b437-52ca4c0426f0" />
+)
 
 **Radar Chart** — normalized RFM shape comparison across personas:
-![Radar Chart](screenshots/radar-chart.png)
+![Radar Chart](<img width="422" height="262" alt="radar-chart" src="https://github.com/user-attachments/assets/190f24f7-1703-43bd-b0db-e9bc8d3db66a" />
+)
 
 ## Business Insight
 
