@@ -39,8 +39,7 @@ Transactional e-commerce data with columns: `InvoiceNo, CustomerID, InvoiceDate,
 )
 
 **Segment Scatter Plot** — Recency vs. Monetary, colored by persona:
-![Scatter Plot](<img width="547" height="284" alt="scatter-plot" src="https://github.com/user-attachments/assets/fbeda7b7-20cd-465d-91ea-1afd7f534376" />
-)
+![Scatter Plot](https://github.com/Vikramcntrivikram/Customer-Segmentation-Project/blob/main/scatter-plot.png)
 
 **Segment Heatmap** — average RFM values per persona:
 ![Heatmap](<img width="544" height="146" alt="heatmap" src="https://github.com/user-attachments/assets/0b06d930-1770-4aab-b437-52ca4c0426f0" />
