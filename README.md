@@ -35,8 +35,7 @@ Transactional e-commerce data with columns: `InvoiceNo, CustomerID, InvoiceDate,
 
 ## Dashboard
 
-![Dashboard Overview](<img width="1158" height="559" alt="dashboard-overview" src="https://github.com/user-attachments/assets/5991ed1f-0494-47eb-bbf2-65b0a3b287e1" />
-)
+![Dashboard Overview](https://github.com/Vikramcntrivikram/Customer-Segmentation-Project/blob/main/dashboard-overview.png)
 
 **Segment Scatter Plot** — Recency vs. Monetary, colored by persona:
 ![Scatter Plot](https://github.com/Vikramcntrivikram/Customer-Segmentation-Project/blob/main/scatter-plot.png)
