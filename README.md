@@ -42,7 +42,7 @@ Transactional e-commerce data with columns: `InvoiceNo, CustomerID, InvoiceDate,
 ![Scatter Plot](https://github.com/Vikramcntrivikram/Customer-Segmentation-Project/blob/main/scatter-plot.png)
 
 **Segment Heatmap** — average RFM values per persona:
-![Heatmap](<img width="544" height="146" alt="heatmap" src="https://github.com/user-attachments/assets/0b06d930-1770-4aab-b437-52ca4c0426f0" />
+![Heatmap](https://github.com/Vikramcntrivikram/Customer-Segmentation-Project/blob/main/heatmap.png
 )
 
 **Radar Chart** — normalized RFM shape comparison across personas:
