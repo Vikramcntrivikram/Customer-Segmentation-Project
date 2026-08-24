@@ -46,8 +46,7 @@ Transactional e-commerce data with columns: `InvoiceNo, CustomerID, InvoiceDate,
 )
 
 **Radar Chart** — normalized RFM shape comparison across personas:
-![Radar Chart](<img width="422" height="262" alt="radar-chart" src="https://github.com/user-attachments/assets/190f24f7-1703-43bd-b0db-e9bc8d3db66a" />
-)
+![Radar Chart](https://github.com/Vikramcntrivikram/Customer-Segmentation-Project/blob/main/radar-chart.png)
 
 ## Business Insight
 
